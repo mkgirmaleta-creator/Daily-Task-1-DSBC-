@@ -47,3 +47,18 @@ Analyze the Superstore dataset using Pandas to extract insights and visualize tr
 
 Author
 Tolesa Girma Leta
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/mkgirmaleta-creator/Daily-Task-1-DSBC-/tree/main/0258-add-digits/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/mkgirmaleta-creator/Daily-Task-1-DSBC-/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/mkgirmaleta-creator/Daily-Task-1-DSBC-/tree/main/0258-add-digits/) | Easy |
+<!---LeetCode Topics End-->
